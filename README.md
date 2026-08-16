@@ -23,7 +23,6 @@
   <img src="./fastapi_backend/screenshots/07_home.jpg" width="22%" alt="Home Dashboard"/>
   <img src="./fastapi_backend/screenshots/08_results.jpg" width="22%" alt="Scan Result"/>
   <img src="./fastapi_backend/screenshots/06_chat.jpg" width="22%" alt="AI Chat Assistant"/>
-  <img src="./fastapi_backend/screenshots/02_uv_exposure.jpg" width="22%" alt="UV Exposure Tracker"/>
 </p>
 
 <p align="center">
