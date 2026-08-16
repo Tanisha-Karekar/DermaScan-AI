@@ -159,8 +159,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-Made with ❤️ by [Omkar Durande](https://github.com/omkar-durande)
+Made with ❤️ by [Tanisha Karekar](https://github.com/Tanisha-Karekar)
 
 ⭐ **Star this repo if you find it useful!**
 
 </div>
+
